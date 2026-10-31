@@ -1,0 +1,16 @@
+faiss-cpu>=1.8
+sentence-transformers>=3.0
+numpy
+pandas
+rank-bm25
+requests
+
+pypdf>=4.0
+python-docx
+
+langgraph
+langchain
+langchain-anthropic
+python-dotenv
+streamlit
+pytest
